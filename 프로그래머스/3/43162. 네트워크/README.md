@@ -1,4 +1,4 @@
-# [level 3] 네트워크 - 43162 
+# [level 3] 네트워크 - 43162 : union, DFS/BFS
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) 
 
